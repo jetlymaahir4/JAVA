@@ -1,0 +1,12 @@
+package com.company;
+
+public class CWH_PS1_Q2 {
+    public static void main(String[] args) {
+        float a = 46;
+        float b = 56;
+        float c = 97;
+        float ttl = (a+b+c);
+        float cgpa = ttl/3;
+        System.out.println(cgpa);
+    }
+}
