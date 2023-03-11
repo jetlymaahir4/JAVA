@@ -1,0 +1,9 @@
+package com.company;
+
+public class CWH_PS1_Q4 {
+    public static void main(String[] args) {
+        double kilometre = 4;
+        double miles = (kilometre* 0.62137119);
+        System.out.println(miles);
+    }
+}
