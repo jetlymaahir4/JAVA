@@ -1,0 +1,11 @@
+package com.company;
+import java.util.Scanner;
+public class CWH_PS1_Set {
+    public static void main(String[] args){
+    int a = 4;
+    int b = 5;
+    int c = 7;
+    int sum = (a+b+c);
+    System.out.println(sum);
+    }
+}
