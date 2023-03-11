@@ -1,0 +1,10 @@
+package com.company;
+
+public class CWH_09_ch2_op {
+    public static void main(String[] args) {
+        float a = 7/4.0f*9/2.0f;
+        System.out.println(a);
+    }
+}
+
+//result is 7.875
